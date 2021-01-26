@@ -1,4 +1,5 @@
-# JHU Love Data Week February 8-12, 2021
+# JHU Love Data Week 
+# February 8-12, 2021
 
 You can use the [editor on GitHub](https://github.com/jhu-data-services/love-data-week/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,29 +7,10 @@ You can use the [editor on GitHub](https://github.com/jhu-data-services/love-dat
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Events
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Stay tuned as we will be adding more events soon!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ![AdoptaDataset](https://icpsrcms.web.itd.umich.edu/sites/default/files/news/Adopt%20a%20Dataset%20at%20ICPSR.jpg)
 
