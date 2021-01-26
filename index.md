@@ -1,6 +1,6 @@
 # Love Data Week February 8-12, 2021
 
-![LoveDataWeek](https://cms.icpsr.umich.edu/sites/default/files/Love%20Data%20Week%202021.png)
+![LoveDataWeek](https://i2.wp.com/news.library.depaul.press/full-text/wp-content/uploads/sites/2/2018/02/LOVEDATAWEEKBLOG_TRANS.png?ssl=1)
 
 ## What is Love Data Week?
 Love Data week is an international celebration of data. This year's theme is **Data: Delivering a Better Future**
