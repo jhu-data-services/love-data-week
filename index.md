@@ -3,7 +3,7 @@
 ![LoveDataWeek](https://i2.wp.com/news.library.depaul.press/full-text/wp-content/uploads/sites/2/2018/02/LOVEDATAWEEKBLOG_TRANS.png?ssl=1)
 
 ## What is Love Data Week?
-Love Data week is an international celebration of data. This year's theme is **Data: Delivering a Better Future**
+Love Data week is an international celebration of data. The purpose of Love Data Week is to raise awareness and build a community to engage on topics related to research data analysis, management, sharing, preservation, reuse, and library-based research data services. This year's theme is **Data: Delivering a Better Future**. TJHU Data Services 
 
 ## Events
 
