@@ -12,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Stay tuned as we will be adding more events soon!
 
-### Monday Feb 8th
+>> Monday Feb 8th
 TBD
 
 ### Monday Feb 8th
