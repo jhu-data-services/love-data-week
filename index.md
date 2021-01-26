@@ -1,4 +1,4 @@
-# February 8-12, 2021
+# February 8th - February 12th, 2021
 
 ![LoveDataWeek](https://i2.wp.com/news.library.depaul.press/full-text/wp-content/uploads/sites/2/2018/02/LOVEDATAWEEKBLOG_TRANS.png?ssl=1)
 
