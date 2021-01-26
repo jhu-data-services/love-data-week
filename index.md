@@ -1,12 +1,9 @@
-# JHU Love Data Week 
-# February 8-12, 2021
+# Love Data Week February 8-12, 2021
 
 ![LoveDataWeek](https://cms.icpsr.umich.edu/sites/default/files/Love%20Data%20Week%202021.png)
 
 ## What is Love Data Week?
 Love Data week is an international celebration of data. This year's theme is **Data: Delivering a Better Future**
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Events
 
