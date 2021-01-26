@@ -1,4 +1,4 @@
-## JHU Love Data Week
+# JHU Love Data Week February 8-12, 2021
 
 You can use the [editor on GitHub](https://github.com/jhu-data-services/love-data-week/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -29,6 +29,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+![AdoptaDataset](https://icpsrcms.web.itd.umich.edu/sites/default/files/news/Adopt%20a%20Dataset%20at%20ICPSR.jpg)
 
 ### Jekyll Themes
 
