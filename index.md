@@ -10,22 +10,22 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Events
 
-Stay tuned as we will be adding more events soon!
+Check back soon as we will be adding more events!
 
->> Monday Feb 8th
+### Monday, February 8th
 TBD
 
-### Monday Feb 8th
-TBD
-
+### Tuesday, February 9th
 TBD 
 
-### Monday Feb 8th
+### Wednesday, February 10th
 TBD
 
-### Monday Feb 8th
-TBD
-
+### Thursday, February 11th
+> [**Bring Your Research Alive with StoryMaps: Beginners**](https://jhu.libcal.com/event/7498271)
+Students will turn their work into a great story using the ArcGIS StoryMaps web app.  StoryMaps allows a user to create an interactive web presence for their research materials without knowing any HTML, CSS, or Javascript.  In this hands-on session with JHU Data Services, you’ll integrate maps, text, and scanned images.  You’ll have the opportunity to share your resulting StoryMap with any group or individual you choose or keep it to yourself for later work. No previous experience required. 
+### Friday, February 12th
+> **Bring Your Research Alive with StoryMaps: Beginners**
 
 ## Get Involved! 
 
