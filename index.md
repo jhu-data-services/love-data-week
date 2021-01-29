@@ -1,6 +1,6 @@
 # February 8th - February 12th, 2021
 
-![LoveDataWeek](https://i2.wp.com/news.library.depaul.press/full-text/wp-content/uploads/sites/2/2018/02/LOVEDATAWEEKBLOG_TRANS.png?ssl=1)
+![LoveDataWeek](https://raw.githubusercontent.com/jhu-data-services/love-data-week/gh-pages/ldw-wide.png)
 
 ## What is Love Data Week?
 Love Data Week is an international celebration of data hosted by the [Inter-university Consortium for Political and Social Research (ICPSR)](https://cms.icpsr.umich.edu/love-data-week-2021-international-events?utm_source=all&utm_medium=all&utm_campaign=LDW2021all). The purpose of Love Data Week is to raise awareness and build a community to engage on topics related to research data analysis, management, sharing, preservation, reuse, and library-based research data services. 
