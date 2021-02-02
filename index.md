@@ -9,8 +9,6 @@ This year's theme is **Data: Delivering a Better Future**.
 
 ## Events
 
-Check back soon as we will be adding more events!
-
 ### Monday, February 8th
 > **12:00 pm - 1:00 pm** [**Kickoff to Love Data Week and Introduction to Data Services Offerings**](https://jh.zoom.us/meeting/register/tJcld--trDIvHtIbUZ_J5D6OeryCZJgvpIn9 )
 > 
@@ -83,6 +81,6 @@ To host a Love Data Week event, or for more information, please reach out to [da
 
 Data Services supports JHU researchers, faculty, and students on the Homewood and East Baltimore campuses with a spectrum of resources for working with data to make your research and teaching successful. For consulta tions, training, or archiving services, please reach out via [chat](https://v2.libanswers.com/chati.php?hash=8b19eda5bc7bc7b80e623cad56abdd12) (Live chat hours: Monday to Thursday, 12 pm to 5 pm and Friday, 12 pm to 3 pm) or by [email](dataservices@jhu.edu).
 
-For more information about our services, visit our website at [https://dataservices.library.jhu.ed/](https://dataservices.library.jhu.edu/).
+For more information about our services, visit our website at [https://dataservices.library.jhu.edu/](https://dataservices.library.jhu.edu/).
 
 For more data-related training and workshops beyond those offered during Love Data Week please visit our [Training and Workshops page](https://dataservices.library.jhu.edu/training-workshops/).
