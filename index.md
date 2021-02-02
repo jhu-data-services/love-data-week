@@ -14,7 +14,7 @@ This year's theme is **Data: Delivering a Better Future**.
 > 
 > [*Data Services, Sheridan Libraries*](https://dataservices.library.jhu.edu/)
 >
-In this kickoff session for Love Data Week we will introduce you to Data Services, and our offerings, in a series of lightning talks. These talks will include finding maps and learning StoryMaps with Lena Denis, ArcGIS with Bonni Widdstadt, Data Archiving with Chen Chiu, De-identification with Dave Fearon, and Data Visualization and an introduction to Love Data Week with Pete Lawson.
+In this kickoff session for Love Data Week we will introduce you to Data Services, and our offerings, in a series of lightning talks. These talks will include finding maps and learning StoryMaps with Lena Denis, ArcGIS with Bonni Wittstadt, Data Archiving with Chen Chiu, De-identification with Dave Fearon, and Data Visualization and an introduction to Love Data Week with Pete Lawson.
 
 
 > **2:00 pm - 3:00 pm** [**Introduction to Data Cleaning with OpenRefine**](https://jh.zoom.us/meeting/register/tJYlf-ytrTgoG9MbOZgBf5-ts_dsC8ffKww- )
