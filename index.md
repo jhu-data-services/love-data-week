@@ -47,7 +47,7 @@ Attendees will learn how to search, find, and share geographic content using Joh
 The Inter-university Consortium for Political and Social Research (ICPSR) provides leadership and training in data access, curation, and methods of analysis for the social science research community. This session will introduce you to the resources available to JHU affiliates through the ICPSR, including one of the world's oldest and largest social and behavioral science data archives, educational resources including the Summer Program in Quantitative Methods of Social Research, and data management plan and budget estimate support for grant proposals. Whether you are a student, faculty, or staff, there is likely something at the ICPSR for you!
 
 
-> **2:00 pm - 4:00 pm:** [**Data for Studying the Quality of Elections and Democracy**](https://zoom.us/j/4124012148)
+> **2:00 pm - 3:30 pm:** [**Data for Studying the Quality of Elections and Democracy**](https://zoom.us/j/4124012148)
 >
 >*[Bryce Corrigan, Ph.D.](https://snfagora.jhu.edu/person/bryce-corrigan/), Senior Statistician and Lecturer, SNF Agora Institute*
 >
