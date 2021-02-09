@@ -33,12 +33,6 @@ _Metadata standards_ - using metadata standards will help you stay consistent in
 _Documenting tabular data_ -  Tabular data is one of the most widely used ways to structure research data. 
 _Documenting code_: Researchers often write code to acquire, manage and analyze research data. Providing good documentation for your code is important for others to understand and reuse your scripts. 
 
-> **2:00 pm - 4:00 pm** [**Introduction to WebMapping**](https://jh.zoom.us/meeting/register/tJIsc-yvpjgpHtb4654V7nkcdaQg14ktS4JD)
-> 
-> _[Bonnie Wittstadt](https://www.library.jhu.edu/staff/bonnie-wittstadt/), GIS Librarian_
->
-Attendees will learn how to search, find, and share geographic content using Johns Hopkins ArcGIS Online Organization account. This JHU Data Services class will provide the fundamental skills necessary to create, design, and share web maps, as well as use some of the various geoprocessing tools currently offered via the online application. 
-
 ### Wednesday, February 10th
 > **12:00 pm - 1:00 pm:** [**Introduction to ICPSR**](https://jh.zoom.us/meeting/register/tJAtduquqjovEtIV7N9rf8Zn2I0BCjaN8PLZ)
 > 
