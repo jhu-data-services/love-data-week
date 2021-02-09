@@ -35,7 +35,7 @@ _Documenting code_: Researchers often write code to acquire, manage and analyze 
 
 > **2:00 pm - 4:00 pm** [**Introduction to WebMapping**](https://jh.zoom.us/meeting/register/tJIsc-yvpjgpHtb4654V7nkcdaQg14ktS4JD)
 > 
-> _[Bonnie Wittstadt, Ph.D.](https://www.library.jhu.edu/staff/bonnie-wittstadt/), GIS Librarian_
+> _[Bonnie Wittstadt](https://www.library.jhu.edu/staff/bonnie-wittstadt/), GIS Librarian_
 >
 Attendees will learn how to search, find, and share geographic content using Johns Hopkins ArcGIS Online Organization account. This JHU Data Services class will provide the fundamental skills necessary to create, design, and share web maps, as well as use some of the various geoprocessing tools currently offered via the online application. 
 
