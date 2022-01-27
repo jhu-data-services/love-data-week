@@ -15,20 +15,20 @@ JHU Data Services will be hosting a number of workshops and presentations along 
 ## Events
 
 ### Monday, February 14th
-> **11:00 pm - 12:00 pm** [**(Virtual) Lunch and Learn - Kickoff to Love Data Week and Introduction to Data Services Offerings**](https://jh.zoom.us/meeting/register/tJcld--trDIvHtIbUZ_J5D6OeryCZJgvpIn9 )
+> **11:00 pm - 12:00 pm** [**(Virtual) Lunch and Learn - Kickoff to Love Data Week and Introduction to Data Services Offerings**]()
 > 
-> [*Data Services, Sheridan Libraries*](https://dataservices.library.jhu.edu/)
+> [*Data Services, Sheridan Libraries*]()
 >
 Do you want to make your scientific publications more impactful? It’s said that a picture is worth a thousand words; a well-designed scientific figure is essential in concisely and clearly communicating complex ideas to your audience. Join JHU Data Services in this workshop session, where we’ll cover design principles and recommended practices for creating effective scientific figures. There is no required prerequisite for this class, but experience preparing scientific figures would be useful.   
 
-> **1:00 pm - 2:30 pm** [**Creating Effective Scientific Figures**](https://jh.zoom.us/meeting/register/tJYlf-ytrTgoG9MbOZgBf5-ts_dsC8ffKww- )
+> **1:00 pm - 2:30 pm** [**Creating Effective Scientific Figures**]()
 > 
 > _[Pete Lawson, Ph.D.](https://www.library.jhu.edu/staff/peter-lawson/), Data and Visualization Librarian_
 >
 OpenRefine (formerly Google Refine) is a powerful free and open source tool for working with messy data: cleaning it and transforming it from one format into another. Do you a have messy dataset, with missing, corrupted, misspelled, or duplicated data? This lesson will teach you to use OpenRefine to clean and format data effectively, as well as how to automate and reproduce the cleaning process. OpenRefine is an easy to use GUI tool, and does not require any programming knowledge.
 
 ### Tuesday, February 15th
-> **12:00 pm - 1:00 pm** [**Introduction to Jupyter Notebooks for Reproducible Research**](https://jh.zoom.us/meeting/register/tJwqde6oqD4qEtXAvydSH4Dkk77Qi9aET2wZ)
+> **12:00 pm - 1:00 pm** [**Introduction to Jupyter Notebooks for Reproducible Research**](https://jh.zoom.us/meeting/register/tJcld--trDIvHtIbUZ_J5D6OeryCZJgvpIn9)
 > 
 > _[Marley Kalt](https://www.library.jhu.edu/staff/marley-kalt/), Data Management Consultant_
 >
@@ -36,7 +36,7 @@ You are already writing comments for your Python code so you may be wondering wh
 
 
 ### Wednesday, February 16th
-> **2:00 pm - 3:15 pm:** [**Ethics in Data Visualization**](https://jh.zoom.us/meeting/register/tJAtduquqjovEtIV7N9rf8Zn2I0BCjaN8PLZ)
+> **2:00 pm - 3:15 pm:** [**Ethics in Data Visualization**]()
 > 
 > _[Pete Lawson, Ph.D.](https://www.library.jhu.edu/staff/peter-lawson/), Data and Visualization Librarian_
 >
@@ -44,14 +44,14 @@ Good data visualizations can bring clarity to data, but visualizations can be ex
 
 
 ### Thursday, February 17th
-> **2:00 pm - 4:00 pm:** [**Bring Your Research Alive with StoryMaps: Beginners**](https://jhu.libcal.com/event/7498271)
+> **2:00 pm - 4:00 pm:** [**Protecting Human Subject Data Privacy: an Introduction**]()
 >
-*[Bonnie Wittstadt](https://www.library.jhu.edu/staff/bonnie-wittstadt/), GIS Librarian and [Lena Denis](https://www.library.jhu.edu/staff/lena-denis/), Geospatial Data, GIS, and Maps Librarian*
+_[Dave Fearon, Ph.D.](https://www.library.jhu.edu/staff/dave-fearon/), Senior Data Management Consultant_ 
 >
-Students will turn their work into a great story using the ArcGIS StoryMaps web app.  StoryMaps allows a user to create an interactive web presence for their research materials without knowing any HTML, CSS, or Javascript.  In this hands-on session with JHU Data Services, you’ll integrate maps, text, and scanned images.  You’ll have the opportunity to share your resulting StoryMap with any group or individual you choose or keep it to yourself for later work. No previous experience required. 
+Protecting research participant and patients’ privacy is challenging not just for security, but also when anonymizing data for external collaborators, publications, and research databases. Join JHU Data Services for an overview of common privacy disclosure risks from personal and health identifiers in data. We discuss how to comply with IRB and HIPAA guidance for data security within the research team and introduce techniques for de-identifying data for external collaborators and public databases. You may preview session topics in our online module and guide. 
 
 ### Friday, February 18th
-> **11:00 am - 12:00 pm** [**Working with APIs and the U.S. Census in R**](https://jh.zoom.us/meeting/register/tJwsdeyoqTMiE9EO3wUt554C-yk6iqnOWxuF)
+> **11:00 am - 12:00 pm** [**Working with APIs and the U.S. Census in R**]()
 >
 *[Reina Murray](https://www.library.jhu.edu/staff/reina-chano-murray/), Geospatial Data Curator and Applications Administrator* 
 >
