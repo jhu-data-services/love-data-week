@@ -36,18 +36,12 @@ You are already writing comments for your Python code so you may be wondering wh
 
 
 ### Wednesday, February 16th
-> **12:00 pm - 1:00 pm:** [**Introduction to ICPSR**](https://jh.zoom.us/meeting/register/tJAtduquqjovEtIV7N9rf8Zn2I0BCjaN8PLZ)
+> **2:00 pm - 3:15 pm:** [**Ethics in Data Visualization**](https://jh.zoom.us/meeting/register/tJAtduquqjovEtIV7N9rf8Zn2I0BCjaN8PLZ)
 > 
 > _[Pete Lawson, Ph.D.](https://www.library.jhu.edu/staff/peter-lawson/), Data and Visualization Librarian_
 >
-The Inter-university Consortium for Political and Social Research (ICPSR) provides leadership and training in data access, curation, and methods of analysis for the social science research community. This session will introduce you to the resources available to JHU affiliates through the ICPSR, including one of the world's oldest and largest social and behavioral science data archives, educational resources including the Summer Program in Quantitative Methods of Social Research, and data management plan and budget estimate support for grant proposals. Whether you are a student, faculty, or staff, there is likely something at the ICPSR for you!
+Good data visualizations can bring clarity to data, but visualizations can be exploited to mislead and misinform. Join JHU Data Services in this interactive workshop where we will learn how to critically evaluate a data visualization at each step of the data visualization process and learn techniques for ethics centered data visualization design. Over the course of this workshop you will practice the steps of the data visualization process, learn how decisions in the steps up to data visualization can affect the final visualization, and identify common sources of bias in the data visualization process.
 
-
-> **2:00 pm - 3:30 pm:** [**Data for Studying the Quality of Elections and Democracy**](https://zoom.us/j/4124012148)
->
->*[Bryce Corrigan, Ph.D.](https://snfagora.jhu.edu/person/bryce-corrigan/), Senior Statistician and Lecturer, SNF Agora Institute*
->
-Scholars of democracy have witnessed a worldwide surge in phenomena undermining it in recent years, sounding the alarm most recently over Trump and his partisans’ disinformation campaign to undermine electoral integrity and foment insurrection. In this session, I will introduce how scholars measure the quality of elections and liberal democracy and the use of several publicly available datasets. In looking at these data, we will see how they reflect (or fail to reflect) democracy as we might conceive of it, and also how they can aide us in grasping changes, fast and slow, born out of sociopolitical, economic, and technological forces.
 
 ### Thursday, February 17th
 > **2:00 pm - 4:00 pm:** [**Bring Your Research Alive with StoryMaps: Beginners**](https://jhu.libcal.com/event/7498271)
