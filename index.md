@@ -15,7 +15,7 @@ JHU Data Services will be hosting a number of workshops and presentations along 
 ## Events
 
 ### Monday, February 14th
-> **11:00 pm - 12:00 pm** [**Virtual) Lunch and Learn - Kickoff to Love Data Week and Introduction to Data Services Offerings**]()
+> **11:00 pm - 12:00 pm** [***(Virtual) Lunch and Learn - Kickoff to Love Data Week and Introduction to Data Services Offerings**]()
 > 
 > [*Data Services, Sheridan Libraries*]()
 >
@@ -57,12 +57,11 @@ _[Dave Fearon, Ph.D.](https://www.library.jhu.edu/staff/dave-fearon/), Senior Da
 Protecting research participant and patients’ privacy is challenging not just for security, but also when anonymizing data for external collaborators, publications, and research databases. Join JHU Data Services for an overview of common privacy disclosure risks from personal and health identifiers in data. We discuss how to comply with IRB and HIPAA guidance for data security within the research team and introduce techniques for de-identifying data for external collaborators and public databases. You may preview session topics in our online module and guide. 
 
 ### Friday, February 18th
-> **12:00 pm - 1:00 pm** [**Lunch and Learn - Introduction to Regular Expressions**]()
+> **12:00 pm - 1:00 pm** [**(Lunch and Learn) - Introduction to Regular Expressions (RegEx)**]()
 >
 > _[Pete Lawson, Ph.D.](https://www.library.jhu.edu/staff/peter-lawson/), Data and Visualization Librarian_
 >
-Heard about Application Programming Interfaces (APIs), but don’t know how to use them? Join JHU Data Services in this one-hour presentation, as we cover a powerful tool for researchers to access and acquire data in R. This presentation will first introduce APIs and how to make API requests in R. The presentation will then demonstrate and go over several options for how to access data from the U.S. Census Bureau’s various APIs. Prior experience and knowledge of R is recommended.
-
+Data can be messy. Regular expressions (RegEx for short) provide a powerful way to perform pattern matching and wrangle in that messy data! For example, what if you needed to standardize U.S. phone numbers to the (000) 000-0000 format, but you have phone numbers separated by dashes, by spaces, by parentheses, or some combination of all those delimiters... how would you go about it? With regular expressions, it's easy! Join JHU Data Services for a gentle interactive introduction to regular expressions, and learn a powerful new skill.
 
 ## Get Involved! 
 To host a Love Data Week event, or for more information, please reach out to [dataservices@jhu.edu](dataservices@jhu.edu).
