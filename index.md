@@ -27,17 +27,15 @@ Do you want to make your scientific publications more impactful? It’s said t
 >
 OpenRefine (formerly Google Refine) is a powerful free and open source tool for working with messy data: cleaning it and transforming it from one format into another. Do you a have messy dataset, with missing, corrupted, misspelled, or duplicated data? This lesson will teach you to use OpenRefine to clean and format data effectively, as well as how to automate and reproduce the cleaning process. OpenRefine is an easy to use GUI tool, and does not require any programming knowledge.
 
-### Tuesdaay, February 9th
-> **12:00 pm - 1:00 pm** [**Documenting Your Research Data**](https://jh.zoom.us/meeting/register/tJwqde6oqD4qEtXAvydSH4Dkk77Qi9aET2wZ)
+### Tuesday, February 15th
+> **12:00 pm - 1:00 pm** [**Introduction to Jupyter Notebooks for Reproducible Research**](https://jh.zoom.us/meeting/register/tJwqde6oqD4qEtXAvydSH4Dkk77Qi9aET2wZ)
 > 
-> _[Chen Chiu, Ph.D.](https://www.library.jhu.edu/staff/chen-chiu/), Data Management Consultant_
+> _[Marley Kalt](https://www.library.jhu.edu/staff/marley-kalt/), Data Management Consultant_
 >
-Documenting your research data is a prerequisite for data sharing and your own use of your data in the future. Good documentation helps your data be discoverable, understood, and trusted by others. We will discuss the following topics in this workshop: 
-_Metadata standards_ - using metadata standards will help you stay consistent in your documentation and ensures other researchers in your field can understand and re-use your data. 
-_Documenting tabular data_ -  Tabular data is one of the most widely used ways to structure research data. 
-_Documenting code_: Researchers often write code to acquire, manage and analyze research data. Providing good documentation for your code is important for others to understand and reuse your scripts. 
+You are already writing comments for your Python code so you may be wondering why you need to document code with a Notebook tool, such as Jupyter Notebooks. Notebook tools help you document and share your work with fellow Python coders, non-coders or non-Python coders. This workshop will teach you the basics of using Jupyter Notebooks and will focus on the features of Jupyter Notebooks that help you create reproducible research and code for technical and non-technical audiences. Many Python users choose to document and share code with Jupyter Notebooks, but this tool can also be used with other programming languages, including Julia and R. You can find examples of Jupyter Notebooks [here](https://nbviewer.org/).
 
-### Wednesday, February 10th
+
+### Wednesday, February 16th
 > **12:00 pm - 1:00 pm:** [**Introduction to ICPSR**](https://jh.zoom.us/meeting/register/tJAtduquqjovEtIV7N9rf8Zn2I0BCjaN8PLZ)
 > 
 > _[Pete Lawson, Ph.D.](https://www.library.jhu.edu/staff/peter-lawson/), Data and Visualization Librarian_
@@ -51,14 +49,14 @@ The Inter-university Consortium for Political and Social Research (ICPSR) provid
 >
 Scholars of democracy have witnessed a worldwide surge in phenomena undermining it in recent years, sounding the alarm most recently over Trump and his partisans’ disinformation campaign to undermine electoral integrity and foment insurrection. In this session, I will introduce how scholars measure the quality of elections and liberal democracy and the use of several publicly available datasets. In looking at these data, we will see how they reflect (or fail to reflect) democracy as we might conceive of it, and also how they can aide us in grasping changes, fast and slow, born out of sociopolitical, economic, and technological forces.
 
-### Thursday, February 11th
+### Thursday, February 17th
 > **2:00 pm - 4:00 pm:** [**Bring Your Research Alive with StoryMaps: Beginners**](https://jhu.libcal.com/event/7498271)
 >
 *[Bonnie Wittstadt](https://www.library.jhu.edu/staff/bonnie-wittstadt/), GIS Librarian and [Lena Denis](https://www.library.jhu.edu/staff/lena-denis/), Geospatial Data, GIS, and Maps Librarian*
 >
 Students will turn their work into a great story using the ArcGIS StoryMaps web app.  StoryMaps allows a user to create an interactive web presence for their research materials without knowing any HTML, CSS, or Javascript.  In this hands-on session with JHU Data Services, you’ll integrate maps, text, and scanned images.  You’ll have the opportunity to share your resulting StoryMap with any group or individual you choose or keep it to yourself for later work. No previous experience required. 
 
-### Friday, February 12th
+### Friday, February 18th
 > **11:00 am - 12:00 pm** [**Working with APIs and the U.S. Census in R**](https://jh.zoom.us/meeting/register/tJwsdeyoqTMiE9EO3wUt554C-yk6iqnOWxuF)
 >
 *[Reina Murray](https://www.library.jhu.edu/staff/reina-chano-murray/), Geospatial Data Curator and Applications Administrator* 
