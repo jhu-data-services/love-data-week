@@ -1,23 +1,25 @@
-# February 8th - February 12th, 2021
+# February 14th - February 18th, 2022
 
 ![LoveDataWeek](https://raw.githubusercontent.com/jhu-data-services/love-data-week/gh-pages/ldw-wide.png)
 
 ## What is Love Data Week?
 Love Data Week is an international celebration of data hosted by the [Inter-university Consortium for Political and Social Research (ICPSR)](https://cms.icpsr.umich.edu/love-data-week-2021-international-events?utm_source=all&utm_medium=all&utm_campaign=LDW2021all). The purpose of Love Data Week is to raise awareness and build a community to engage on topics related to research data analysis, management, sharing, preservation, reuse, and library-based research data services. 
 
-This year's theme is **Data: Delivering a Better Future**. 
+This year's theme is **Data is for everyone!** Love Data Week 2022 is about how different folks use data. This year we're focused on the people side of data. What does data look like in different disciplines? How about biases in data... who is "in" the data and who is invisible? 
+
+JHU Data Services will be hosting a number of workshops and presentations along this theme. Come learn a new skill, or see what amazing research is happening at our university!
 
 ## Events
 
 ### Monday, February 8th
-> **12:00 pm - 1:00 pm** [**Kickoff to Love Data Week and Introduction to Data Services Offerings**](https://jh.zoom.us/meeting/register/tJcld--trDIvHtIbUZ_J5D6OeryCZJgvpIn9 )
+> **11:00 pm - 12:00 pm** [**(Virtual) Lunch and Learn - Kickoff to Love Data Week and Introduction to Data Services Offerings**](https://jh.zoom.us/meeting/register/tJcld--trDIvHtIbUZ_J5D6OeryCZJgvpIn9 )
 > 
 > [*Data Services, Sheridan Libraries*](https://dataservices.library.jhu.edu/)
 >
 In this kickoff session for Love Data Week we will introduce you to Data Services, and our offerings, in a series of lightning talks. These talks will include finding maps and learning StoryMaps with Lena Denis, ArcGIS with Bonni Wittstadt, Data Archiving with Chen Chiu, De-identification with Dave Fearon, and Data Visualization and an introduction to Love Data Week with Pete Lawson.
 
 
-> **2:00 pm - 3:00 pm** [**Introduction to Data Cleaning with OpenRefine**](https://jh.zoom.us/meeting/register/tJYlf-ytrTgoG9MbOZgBf5-ts_dsC8ffKww- )
+> **1:00 pm - 2:30 pm** [**Creating Effective Scientific Figures**](https://jh.zoom.us/meeting/register/tJYlf-ytrTgoG9MbOZgBf5-ts_dsC8ffKww- )
 > 
 > _[Pete Lawson, Ph.D.](https://www.library.jhu.edu/staff/peter-lawson/), Data and Visualization Librarian_
 >
