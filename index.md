@@ -1,4 +1,7 @@
-# Love Data Week - February 14th - February 18th, 2022
+# Love Data Week 2022
+
+<font size="+3">February 14th - February 18th, 2022</font>
+
 
 ![LoveDataWeek](https://raw.githubusercontent.com/jhu-data-services/love-data-week/gh-pages/ldw-wide.png)
 
