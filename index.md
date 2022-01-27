@@ -1,23 +1,22 @@
-# February 14th - February 18th, 2022
+# Love Data Week - February 14th - February 18th, 2022
 
 ![LoveDataWeek](https://raw.githubusercontent.com/jhu-data-services/love-data-week/gh-pages/ldw-wide.png)
 
 ## What is Love Data Week?
 Love Data Week is an international celebration of data hosted by the [Inter-university Consortium for Political and Social Research (ICPSR)](https://cms.icpsr.umich.edu/love-data-week-2021-international-events?utm_source=all&utm_medium=all&utm_campaign=LDW2021all). The purpose of Love Data Week is to raise awareness and build a community to engage on topics related to research data analysis, management, sharing, preservation, reuse, and library-based research data services. 
 
-This year's theme is **Data is for everyone!** Love Data Week 2022 is about how different folks use data. This year we're focused on the people side of data. What does data look like in different disciplines? How about biases in data... who is "in" the data and who is invisible? 
+This year's theme is **Data is for everyone!** Love Data Week 2022 is all about how different folks use data. This year we're focused on the people side of data. What does data look like in different disciplines? How about biases in data... who is "in" the data and who is invisible? 
 
 JHU Data Services will be hosting a number of workshops and presentations along this theme. Come learn a new skill, or see what amazing research is happening at our university!
 
 ## Events
 
-### Monday, February 8th
+### Monday, February 14th
 > **11:00 pm - 12:00 pm** [**(Virtual) Lunch and Learn - Kickoff to Love Data Week and Introduction to Data Services Offerings**](https://jh.zoom.us/meeting/register/tJcld--trDIvHtIbUZ_J5D6OeryCZJgvpIn9 )
 > 
 > [*Data Services, Sheridan Libraries*](https://dataservices.library.jhu.edu/)
 >
-In this kickoff session for Love Data Week we will introduce you to Data Services, and our offerings, in a series of lightning talks. These talks will include finding maps and learning StoryMaps with Lena Denis, ArcGIS with Bonni Wittstadt, Data Archiving with Chen Chiu, De-identification with Dave Fearon, and Data Visualization and an introduction to Love Data Week with Pete Lawson.
-
+Do you want to make your scientific publications more impactful? It’s said that a picture is worth a thousand words; a well-designed scientific figure is essential in concisely and clearly communicating complex ideas to your audience. Join JHU Data Services in this workshop session, where we’ll cover design principles and recommended practices for creating effective scientific figures. There is no required prerequisite for this class, but experience preparing scientific figures would be useful.   
 
 > **1:00 pm - 2:30 pm** [**Creating Effective Scientific Figures**](https://jh.zoom.us/meeting/register/tJYlf-ytrTgoG9MbOZgBf5-ts_dsC8ffKww- )
 > 
@@ -75,7 +74,7 @@ To host a Love Data Week event, or for more information, please reach out to [da
 
 ## Learn More About Data Services
 
-Data Services supports JHU researchers, faculty, and students on the Homewood and East Baltimore campuses with a spectrum of resources for working with data to make your research and teaching successful. For consulta tions, training, or archiving services, please reach out via [chat](https://v2.libanswers.com/chati.php?hash=8b19eda5bc7bc7b80e623cad56abdd12) (Live chat hours: Monday to Thursday, 12 pm to 5 pm and Friday, 12 pm to 3 pm) or by [email](dataservices@jhu.edu).
+Data Services supports JHU researchers, faculty, and students on the Homewood and East Baltimore campuses with a spectrum of resources for working with data to make your research and teaching successful. For consultations, training, or archiving services, please reach out via [chat](https://v2.libanswers.com/chati.php?hash=8b19eda5bc7bc7b80e623cad56abdd12) (Live chat hours: Monday to Thursday, 10 pm to 5 pm and Friday, 11 pm to 3 pm) or by [email](dataservices@jhu.edu).
 
 For more information about our services, visit our website at [https://dataservices.library.jhu.edu/](https://dataservices.library.jhu.edu/).
 
