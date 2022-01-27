@@ -50,7 +50,7 @@ Good data visualizations can bring clarity to data, but visualizations can be ex
 
 
 ### Thursday, February 17th
-> **2:00 pm - 4:00 pm:** [**Protecting Human Subject Data Privacy: an Introduction**]()
+> **12:00 pm - 1:00 pm:** [**(Virtual) Lunch and Learn - Protecting Human Subject Data Privacy: an Introduction**](https://jhu.libcal.com/event/8794841)
 >
 _[Dave Fearon, Ph.D.](https://www.library.jhu.edu/staff/dave-fearon/), Senior Data Management Consultant_ 
 >
