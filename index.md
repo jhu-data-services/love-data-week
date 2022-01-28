@@ -32,8 +32,9 @@ OpenRefine (formerly Google Refine) is a powerful free and open source tool for 
 > 
 > _[Pete Lawson, Ph.D.](https://www.library.jhu.edu/staff/peter-lawson/), Data and Visualization Librarian_
 >
-You are already writing comments for your Python code so you may be wondering why you need to document code with a Notebook tool, such as Jupyter Notebooks. Notebook tools help you document and share your work with fellow Python coders, non-coders or non-Python coders. This workshop will teach you the basics of using Jupyter Notebooks and will focus on the features of Jupyter Notebooks that help you create reproducible research and code for technical and non-technical audiences. Many Python users choose to document and share code with Jupyter Notebooks, but this tool can also be used with other programming languages, including Julia and R. You can find examples of Jupyter Notebooks [here](https://nbviewer.org/).
+Join JHU Data Services during a lunch and learn session where we will guide you in discovering and accessing data for use in your research. You will learn effective search strategies for discovering secondary data for research, learn how to access and use data sources licensed by the library, find data outside the library, and discover how to access restricte-use data. After attending this workshop you will be empowered to find the data you need for your research! 
 
+ 
 > **2:00 pm - 4:00 pm** [**Introduction to Jupyter Notebooks for Reproducible Research**](https://jh.zoom.us/meeting/register/tJcld--trDIvHtIbUZ_J5D6OeryCZJgvpIn9)
 > 
 > _[Marley Kalt](https://www.library.jhu.edu/staff/marley-kalt/), Data Management Consultant_
