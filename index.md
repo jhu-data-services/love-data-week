@@ -70,7 +70,7 @@ Join JHU Data Services for a series of lightning talks exploring how StoryMaps c
 >
 > - **A Failed Statistics: Mapping Incommensurability in 19th Century Mexico**
 >
->   _[Casey Marina Lurtz, Ph.D.]() Professor of History_
+>   _[Casey Marina Lurtz, Ph.D.](https://history.jhu.edu/directory/casey-lurtz/) Assistant Professor of History_
 >
 > - **A Topography of Death:’ The Human Side of Data**
 >
