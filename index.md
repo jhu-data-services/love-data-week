@@ -66,17 +66,19 @@ Data can be messy. Regular expressions (RegEx for short) provide a powerful way 
 
 > **3:00 pm - 4:30 pm** [**Turning Data into Narratives with StoryMaps**]()
 >
+Join JHU Data Services for a series of lightning talks exploring how StoryMaps can serve as a tool for bringing narratives to data, and centering those narratives around those often excluded or under- represented by that data. Talks include:
+>
 > - **A Failed Statistics: Mapping Incommensurability in 19th Century Mexico**
 >
 >   _[Casey Marina Lurtz, Ph.D.]() Professor of History_
 >
 > - **A Topography of Death:’ The Human Side of Data**
 >
-> _[Natalia Stefanska]()_
+>   _[Natalia Stefanska]()_
 >
 > - **Mapping Cultural Institutions in Baltimore from 1800 - 1940**
 >
-> _[Debbie Kim]()_
+>   _[Debbie Kim]()_
 >
 
 ## Get Involved! 
