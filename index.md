@@ -15,17 +15,17 @@ JHU Data Services will be hosting a number of workshops and presentations along 
 ## Events
 
 ### Monday, February 14th
-> **11:00 pm - 12:00 pm** [***(Virtual) Lunch and Learn - Kickoff to Love Data Week and Introduction to Data Services Offerings**]()
+> **11:00 pm - 12:00 pm** [**(Virtual) Lunch and Learn - Kickoff to Love Data Week and Introduction to Data Services Offerings**]()
 > 
 > [*Data Services, Sheridan Libraries*]()
 >
-Do you want to make your scientific publications more impactful? It’s said that a picture is worth a thousand words; a well-designed scientific figure is essential in concisely and clearly communicating complex ideas to your audience. Join JHU Data Services in this workshop session, where we’ll cover design principles and recommended practices for creating effective scientific figures. There is no required prerequisite for this class, but experience preparing scientific figures would be useful.   
+In this kickoff session for Love Data Week we will introduce you to Data Services, and our offerings, in a series of lightning talks. These talks will include finding maps and learning StoryMaps with Lena Denis, Data Archiving with Chen Chiu, De-identification with Dave Fearon, and Data Visualization and an introduction to Love Data Week with Pete Lawson.
 
 > **1:00 pm - 2:30 pm** [**Creating Effective Scientific Figures**]()
 > 
 > _[Pete Lawson, Ph.D.](https://www.library.jhu.edu/staff/peter-lawson/), Data and Visualization Librarian_
 >
-OpenRefine (formerly Google Refine) is a powerful free and open source tool for working with messy data: cleaning it and transforming it from one format into another. Do you a have messy dataset, with missing, corrupted, misspelled, or duplicated data? This lesson will teach you to use OpenRefine to clean and format data effectively, as well as how to automate and reproduce the cleaning process. OpenRefine is an easy to use GUI tool, and does not require any programming knowledge.
+Do you want to make your scientific publications more impactful? It’s said that a picture is worth a thousand words; a well-designed scientific figure is essential in concisely and clearly communicating complex ideas to your audience. Join JHU Data Services in this workshop session, where we’ll cover design principles and recommended practices for creating effective scientific figures. There is no required prerequisite for this class, but experience preparing scientific figures would be useful.   
 
 ### Tuesday, February 15th
 > **11:00 am - 12:00 pm** [**(Virtual) Lunch and Learn - Discovering Data for Research**](https://jh.zoom.us/meeting/register/tJcld--trDIvHtIbUZ_J5D6OeryCZJgvpIn9)
