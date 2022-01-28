@@ -66,15 +66,15 @@ Data can be messy. Regular expressions (RegEx for short) provide a powerful way 
 
 > **3:00 pm - 4:30 pm** [**Turning Data into Narratives with StoryMaps**]()
 >
-> **A Failed Statistics: Mapping Incommensurability in 19th Century Mexico**
+> - **A Failed Statistics: Mapping Incommensurability in 19th Century Mexico**
 >
-> _[Casey Marina Lurtz, Ph.D.]() Professor of History_
+>   _[Casey Marina Lurtz, Ph.D.]() Professor of History_
 >
-> ****A Topography of Death:’ The Human Side of Data**
+> - **A Topography of Death:’ The Human Side of Data**
 >
-> _[Natalia Stefanska]() __
+> _[Natalia Stefanska]()_
 >
-> **Mapping Cultural Institutions in Baltimore from 1800 - 1940**
+> - **Mapping Cultural Institutions in Baltimore from 1800 - 1940**
 >
 > _[Debbie Kim]()_
 >
