@@ -17,7 +17,7 @@ JHU Data Services will be hosting a number of workshops and presentations along 
 ### Monday, February 14th
 > **11:00 pm - 12:00 pm** [**(Virtual) Lunch and Learn - Kickoff to Love Data Week and Introduction to Data Services Offerings**]()
 > 
-> [*Data Services, Sheridan Libraries*]()
+> [*Data Services, Sheridan Libraries*](https://jhu.libcal.com/event/8858900)
 >
 In this kickoff session for Love Data Week we will introduce you to Data Services, and our offerings, in a series of lightning talks. These talks will include finding maps and learning StoryMaps with Lena Denis, Data Archiving with Chen Chiu, De-identification with Dave Fearon, and Data Visualization and an introduction to Love Data Week with Pete Lawson.
 
@@ -28,14 +28,14 @@ In this kickoff session for Love Data Week we will introduce you to Data Service
 Do you want to make your scientific publications more impactful? It’s said that a picture is worth a thousand words; a well-designed scientific figure is essential in concisely and clearly communicating complex ideas to your audience. Join JHU Data Services in this workshop session, where we’ll cover design principles and recommended practices for creating effective scientific figures. There is no required prerequisite for this class, but experience preparing scientific figures would be useful.   
 
 ### Tuesday, February 15th
-> **11:00 am - 12:00 pm** [**(Virtual) Lunch and Learn - Discovering Data for Research**](https://jh.zoom.us/meeting/register/tJcld--trDIvHtIbUZ_J5D6OeryCZJgvpIn9)
+> **11:00 am - 12:00 pm** [**(Virtual) Lunch and Learn - Discovering Data for Research**](https://jhu.libcal.com/event/8858920)
 > 
 > _[Pete Lawson, Ph.D.](https://www.library.jhu.edu/staff/peter-lawson/), Data and Visualization Librarian_
 >
 Join JHU Data Services during a lunch and learn session where we will guide you in discovering and accessing data for use in your research. You will learn effective search strategies for discovering secondary data for research, learn how to access and use data sources licensed by the library, find data outside the library, and discover how to access restricte-use data. After attending this workshop you will be empowered to find the data you need for your research! 
 
  
-> **2:00 pm - 4:00 pm** [**Introduction to Jupyter Notebooks for Reproducible Research**](https://jh.zoom.us/meeting/register/tJcld--trDIvHtIbUZ_J5D6OeryCZJgvpIn9)
+> **2:00 pm - 4:00 pm** [**Introduction to Jupyter Notebooks for Reproducible Research**](https://jhu.libcal.com/event/8793231)
 > 
 > _[Marley Kalt](https://www.library.jhu.edu/staff/marley-kalt/), Data Management Consultant_
 >
@@ -43,7 +43,7 @@ You are already writing comments for your Python code so you may be wondering wh
 
 
 ### Wednesday, February 16th
-> **2:00 pm - 3:15 pm:** [**Ethics in Data Visualization**]()
+> **2:00 pm - 3:15 pm:** [**Ethics in Data Visualization**](https://jhu.libcal.com/event/8858929)
 > 
 > _[Pete Lawson, Ph.D.](https://www.library.jhu.edu/staff/peter-lawson/), Data and Visualization Librarian_
 >
@@ -58,7 +58,13 @@ _[Dave Fearon, Ph.D.](https://www.library.jhu.edu/staff/dave-fearon/), Senior Da
 Protecting research participant and patients’ privacy is challenging not just for security, but also when anonymizing data for external collaborators, publications, and research databases. Join JHU Data Services for an overview of common privacy disclosure risks from personal and health identifiers in data. We discuss how to comply with IRB and HIPAA guidance for data security within the research team and introduce techniques for de-identifying data for external collaborators and public databases. You may preview session topics in our online module and guide. 
 
 ### Friday, February 18th
-> **12:00 pm - 1:00 pm** [**(Lunch and Learn) - Introduction to Regular Expressions (RegEx)**]()
+> **12:00 pm - 1:00 pm** [**(Lunch and Learn) - Introduction to Regular Expressions (RegEx)**](https://jhu.libcal.com/event/8858936)
+>
+> _[Pete Lawson, Ph.D.](https://www.library.jhu.edu/staff/peter-lawson/), Data and Visualization Librarian_
+>
+Data can be messy. Regular expressions (RegEx for short) provide a powerful way to perform pattern matching and wrangle in that messy data! For example, what if you needed to standardize U.S. phone numbers to the (000) 000-0000 format, but you have phone numbers separated by dashes, by spaces, by parentheses, or some combination of all those delimiters... how would you go about it? With regular expressions, it's easy! Join JHU Data Services for a gentle interactive introduction to regular expressions, and learn a powerful new skill.
+
+> **3:00 pm - 4:30 pm** [**Turning Data into Narratives with StoryMaps**]()
 >
 > _[Pete Lawson, Ph.D.](https://www.library.jhu.edu/staff/peter-lawson/), Data and Visualization Librarian_
 >
