@@ -64,15 +64,15 @@ Protecting research participant and patients’ privacy is challenging not j
 >
 Data can be messy. Regular expressions (RegEx for short) provide a powerful way to perform pattern matching and wrangle in that messy data! For example, what if you needed to standardize U.S. phone numbers to the (000) 000-0000 format, but you have phone numbers separated by dashes, by spaces, by parentheses, or some combination of all those delimiters... how would you go about it? With regular expressions, it's easy! Join JHU Data Services for a gentle interactive introduction to regular expressions, and learn a powerful new skill.
 
-> **3:00 pm - 4:30 pm** [**Turning Data into Narratives with StoryMaps**]()
+> **3:00 pm - 4:30 pm** [**Turning Data into Narratives with StoryMaps**](https://jhu.libcal.com/event/8861834)
 >
 Join JHU Data Services for a series of lightning talks exploring how StoryMaps can serve as a tool for bringing narratives to data, and centering those narratives around those often excluded or under- represented by that data. Talks include:
 >
-> - **A Failed Statistics: Mapping Incommensurability in 19th Century Mexico**
+> - **A Failed Statistics: _Mapping Incommensurability in 19th Century Mexico_**
 >
 >   _[Casey Marina Lurtz, Ph.D.](https://history.jhu.edu/directory/casey-lurtz/) Assistant Professor of History_
 >
-> - **A Topography of Death:’ The Human Side of Data**
+> - **A Topography of Death: _The Human Side of Data_**
 >
 >   _[Natalia Stefanska]()_
 >
