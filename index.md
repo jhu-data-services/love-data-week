@@ -74,11 +74,11 @@ Join JHU Data Services for a series of lightning talks exploring how StoryMaps c
 >
 > - **A Topography of Death: _The Human Side of Data_**
 >
->   _[Natalia Stefanska]()_
+>   _[Natalia Stefanska, ]() JHU International/Global Studies, Class of 2024_
 >
 > - **Mapping Cultural Institutions in Baltimore from 1800 - 1940**
 >
->   _[Debbie Kim]()_
+>   _[Debbie Kim, B.A.](https://www.mcaad.org/person/debbie-kim) Project Associate, Curatorial and Exhibits at Milken Center for Advancing the American Dream (MCAAD)_ 
 >
 
 ## Get Involved! 
