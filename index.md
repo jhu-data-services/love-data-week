@@ -66,7 +66,7 @@ Data can be messy. Regular expressions (RegEx for short) provide a powerful way 
 
 > **3:00 pm - 4:30 pm** [**Turning Data into Narratives with StoryMaps**](https://jhu.libcal.com/event/8861834)
 >
-Join JHU Data Services for a series of lightning talks exploring how StoryMaps can serve as a tool for bringing narratives to data, and centering those narratives around those often excluded or under-represented by that data. The talks will be moderated by Geospatial Data, GIS, and Maps Librarian _[Lena Denis](https://www.library.jhu.edu/staff/lena-denis/)_, and include:
+Join JHU Data Services for a series of lightning talks exploring how ArcGIS StoryMaps can serve as a tool for transforming data into visually engaging narratives that center unique and underrepresented stories. The talks will be moderated by Geospatial Data, GIS, and Maps Librarian _[Lena Denis](https://www.library.jhu.edu/staff/lena-denis/)_, and include:
 >
 > - **A Failed Statistics: _Mapping Incommensurability in 19th Century Mexico_**
 >
