@@ -70,16 +70,18 @@ Join JHU Data Services for a series of lightning talks exploring how ArcGIS Stor
 >
 > - **A Failed Statistics: _Mapping Incommensurability in 19th Century Mexico_**
 >
+>   See how mapping and visualizing agricultural records from nineteenth-century Mexico can reveal unforeseen patterns in land ownership, labor, and the environment.
 >   _[Casey Marina Lurtz, Ph.D.](https://history.jhu.edu/directory/casey-lurtz/) Assistant Professor of History_
 >
 > - **A Topography of Death: _The Human Side of Data_**
->
+>   Get the full story of how data about migrant crossings became the powerful exhibition [Hostile Terrain 94](https://www.undocumentedmigrationproject.org/hostileterrain94).
 >   _[Natalia Stefanska, ]() JHU International/Global Studies, Class of 2024_
 >
 > - **Mapping Cultural Institutions in Baltimore from 1800 - 1940**
+> 
+>   See what nineteenth-century museum construction and attendance patterns show about education and entertainment in changing Baltimore neighborhoods.
 >
 >   _[Debbie Kim, B.A.](https://www.mcaad.org/person/debbie-kim) Project Associate, Curatorial and Exhibits at Milken Center for Advancing the American Dream (MCAAD)_ 
->
 
 ## Get Involved! 
 To host a Love Data Week event, or for more information, please reach out to [dataservices@jhu.edu](dataservices@jhu.edu).
