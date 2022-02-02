@@ -84,7 +84,7 @@ Join JHU Data Services for a series of lightning talks exploring how ArcGIS Stor
 > 
 >   See what nineteenth-century museum construction and attendance patterns show about education and entertainment in changing Baltimore neighborhoods.
 >
->   _[Debbie Kim, B.A.](https://www.mcaad.org/person/debbie-kim) Project Associate, Curatorial and Exhibits at Milken Center for Advancing the American Dream (MCAAD)_ 
+>   _[Debbie Kim, B.A.](https://www.mcaad.org/person/debbie-kim)  A&S Class of 2021, Project Associate, Curatorial and Exhibits at Milken Center for Advancing the American Dream (MCAAD)_ 
 
 ## Get Involved! 
 To host a Love Data Week event, or for more information, please reach out to [dataservices@jhu.edu](dataservices@jhu.edu).
