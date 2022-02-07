@@ -32,7 +32,7 @@ Do you want to make your scientific publications more impactful? It’s said t
 > 
 > _[Pete Lawson, Ph.D.](https://www.library.jhu.edu/staff/peter-lawson/), Data and Visualization Librarian_
 >
-Join JHU Data Services during a lunch and learn session where we will guide you in discovering and accessing data for use in your research. You will learn effective search strategies for discovering secondary data for research, learn how to access and use data sources licensed by the library, find data outside the library, and discover how to access restricte-use data. After attending this workshop you will be empowered to find the data you need for your research! 
+Join JHU Data Services during a lunch and learn session where we will guide you in discovering and accessing data for use in your research. You will learn effective search strategies for discovering secondary data for research, learn how to access and use data sources licensed by the library, find data outside the library, and discover how to access restricted-use data. After attending this workshop you will be empowered to find the data you need for your research! 
 
  
 > **2:00 pm - 4:00 pm** [**Introduction to Jupyter Notebooks for Reproducible Research**](https://jhu.libcal.com/event/8793231)
