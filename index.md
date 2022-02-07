@@ -15,13 +15,13 @@ JHU Data Services will be hosting a number of workshops and presentations along 
 ## Events
 
 ### Monday, February 14th
-> **11:00 pm - 12:00 pm** [**(Virtual) Lunch and Learn - Kickoff to Love Data Week and Introduction to Data Services Offerings**]()
+> **11:00 pm - 12:00 pm** [**(Virtual) Lunch and Learn - Kickoff to Love Data Week and Introduction to Data Services Offerings**](https://jhu.libcal.com/event/8858900)
 > 
-> [*Data Services, Sheridan Libraries*](https://jhu.libcal.com/event/8858900)
+> [*Data Services, Sheridan Libraries*](https://dataservices.library.jhu.edu/)
 >
 In this kickoff session for Love Data Week we will introduce you to Data Services, and our offerings, in a series of lightning talks. These talks will include finding maps and learning StoryMaps with Lena Denis, Data Archiving with Chen Chiu, De-identification with Dave Fearon, and Data Visualization and an introduction to Love Data Week with Pete Lawson.
 
-> **1:00 pm - 2:30 pm** [**Creating Effective Scientific Figures**]()
+> **1:00 pm - 2:30 pm** [**Creating Effective Scientific Figures**](https://jhu.libcal.com/event/8793227)
 > 
 > _[Pete Lawson, Ph.D.](https://www.library.jhu.edu/staff/peter-lawson/), Data and Visualization Librarian_
 >
