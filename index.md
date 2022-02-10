@@ -15,7 +15,7 @@ JHU Data Services will be hosting a number of workshops and presentations along 
 ## Events
 
 ### Monday, February 14th
-> **11:00 pm - 12:00 pm** [**(Virtual) Lunch and Learn - Kickoff to Love Data Week and Introduction to Data Services Offerings**](https://jhu.libcal.com/event/8858900)
+> **11:00 am - 12:00 pm** [**(Virtual) Lunch and Learn - Kickoff to Love Data Week and Introduction to Data Services Offerings**](https://jhu.libcal.com/event/8858900)
 > 
 > [*Data Services, Sheridan Libraries*](https://dataservices.library.jhu.edu/)
 >
