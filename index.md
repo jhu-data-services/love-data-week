@@ -82,7 +82,7 @@ Join JHU Data Services for a series of lightning talks exploring how ArcGIS Stor
 >
 > - **Mapping Cultural Institutions in Baltimore from 1800 - 1940**
 > 
->   nSee how mapping the establishment of early cultural institutions of Baltimore showcases the changing landscape of Baltimore's cultural institutions in the 19th century and insight into their institutional identities.
+>   See how mapping the establishment of early cultural institutions of Baltimore showcases the changing landscape of Baltimore's cultural institutions in the 19th century and insight into their institutional identities.
 >
 >   _[Debbie Kim, B.A.](https://www.mcaad.org/person/debbie-kim)  A&S Class of 2021, Project Associate, Curatorial and Exhibits at Milken Center for Advancing the American Dream (MCAAD)_ 
 
